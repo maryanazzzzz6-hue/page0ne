@@ -1,0 +1,23 @@
+body {background-color: rgb(241, 230, 3);
+    text-align: center;
+
+}
+
+nav {background-color: rgb(33, 150, 213);
+}
+nav li a {
+display: block;
+color: blueviolet;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+padding: 14px 16px;
+transition:background-color 0.5s;
+border-radius: 5px; 
+}
+nav li a:hover{
+background-color: deeppink;
+color: darkgreen;
+
+
+
+}
